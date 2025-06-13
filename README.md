@@ -6,3 +6,5 @@ I made this because I like growing flowers and vegetables but I can't reliably g
 
 
 ![updatedWiringDiagram](https://github.com/user-attachments/assets/da496693-fd77-44df-82b6-8cd20954bd9d)
+
+![CleanShot 2025-06-13 at 15 33 35](https://github.com/user-attachments/assets/3fdabda3-9775-40ba-96a7-1a5b26eee106)

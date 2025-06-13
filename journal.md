@@ -1,3 +1,5 @@
+Total Time Spent: 40 Hours
+
 April 5th-
 This is the first day! I came up with this idea while discussing starting projects with a friend, and it just randomly came to me to make an automatic grow box.
 I made a diagram today, researched components, and that's about it. I'll start work on the frame later on.

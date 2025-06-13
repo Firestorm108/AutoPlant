@@ -86,8 +86,9 @@ Time Spent: ~9 Hours
 June 12th-
 
 I finished the entire updated wiring diagram. I'm glad to have gotten it down, as it felt really overwhelming but now I feel like I have a lot more direction and straightforwardness.
+![updatedWiringDiagram](https://github.com/user-attachments/assets/89ed7b15-52c0-4c35-bb29-b50e8eab852e)
 
-![diagramGrowBox](https://github.com/user-attachments/assets/5104ba94-8079-4ab4-bf12-b1107c045291)
+
 
 Time Spent: ~3 Hours
 

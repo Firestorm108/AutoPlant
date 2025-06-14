@@ -10,3 +10,4 @@ I made this because I like growing flowers and vegetables but I can't reliably g
 
 
 ![CleanShot 2025-06-13 at 17 41 00](https://github.com/user-attachments/assets/b79ae011-1c86-428e-8f97-b043410573da)
+![CleanShot 2025-06-13 at 21 36 39](https://github.com/user-attachments/assets/33e9f8b7-fe5a-4be3-8393-3499e1d8f5c2)

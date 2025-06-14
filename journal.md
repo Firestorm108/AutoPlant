@@ -1,4 +1,4 @@
-Total Time Spent: 40 Hours
+Total Time Spent: 44 Hours
 
 April 5th-
 This is the first day! I came up with this idea while discussing starting projects with a friend, and it just randomly came to me to make an automatic grow box.
@@ -94,7 +94,12 @@ I finished the entire updated wiring diagram. I'm glad to have gotten it down, a
 
 Time Spent: ~3 Hours
 
+June 13th-
 
+Today I finished the table verison of the BOM. I then completely finished the model in Fusion 360!!! Now, all I need is the parts and I'll be able to get this thing up and running! The part that I added that completed the model was the top casing. It basically houses all the main electronics and control panel at the very top. There's room for 5 toggle switches, 1 button, 1 rotary encoder, and the LCD screen. I really like the tactile-ness of the control panel.
 
+![CleanShot 2025-06-13 at 21 41 19](https://github.com/user-attachments/assets/58ae9733-9d60-4152-8d3c-b4afdd677270)
+
+Time Spent: ~4 Hours
 
 

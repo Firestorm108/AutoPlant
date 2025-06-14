@@ -8,4 +8,5 @@ I made this because I like growing flowers and vegetables but I can't reliably g
 ![updatedWiringDiagram](https://github.com/user-attachments/assets/da496693-fd77-44df-82b6-8cd20954bd9d)
 
 
-![CleanShot 2025-06-13 at 15 36 09](https://github.com/user-attachments/assets/bff44919-2b76-4f9c-a2e9-0f241302d2e7)
+
+![CleanShot 2025-06-13 at 17 41 00](https://github.com/user-attachments/assets/b79ae011-1c86-428e-8f97-b043410573da)

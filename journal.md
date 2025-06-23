@@ -106,8 +106,9 @@ June 22nd-
 
 I 3d printed the control panel area and started the wiring, I got most of the visible stuff done and the outside looks pretty cool!
 
-![IMG_2875](https://github.com/user-attachments/assets/9b22a78f-51f3-4cc0-971b-4961735715e1)
-![IMG_2876](https://github.com/user-attachments/assets/bd227c7b-9cfb-44cb-a30c-ea7ed36718ea)
+![IMG_2877](https://github.com/user-attachments/assets/5cfc6247-c2e1-4e8a-b796-4fba81fe7b8a)
+![IMG_2878](https://github.com/user-attachments/assets/8c6c1414-2485-478c-97e2-13f75dd4cb76)
+
 
 Time Spent: ~4 Hours
 

@@ -102,4 +102,13 @@ Today I finished the table verison of the BOM. I then completely finished the mo
 
 Time Spent: ~4 Hours
 
+June 22nd-
+
+I 3d printed the control panel area and started the wiring, I got most of the visible stuff done and the outside looks pretty cool!
+
+![IMG_2875](https://github.com/user-attachments/assets/9b22a78f-51f3-4cc0-971b-4961735715e1)
+![IMG_2876](https://github.com/user-attachments/assets/bd227c7b-9cfb-44cb-a30c-ea7ed36718ea)
+
+Time Spent: ~4 Hours
+
 

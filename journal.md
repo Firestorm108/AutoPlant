@@ -113,12 +113,21 @@ Time Spent: ~4 Hours
 
 <h1>August 7th</h1>
 
-I completely finished the project! The watering, lights, all of it. The wiring was quite annoying as there were so many. As well as the AC bulb system, it didn't work and popped my bulbs because the extender wasn't rated for the wattage, I think. I spent a long time in the garage looking for new ones but I did find more full spectrum ones, luckily the led ones were fine. 
+I completely finished the project! The watering, lights, all of it. The wiring was quite annoying as there were so many. As well as the AC bulb system, it didn't work and popped my bulbs because the extender wasn't rated for the wattage, I think. I spent a long time in the garage looking for new ones but I did find more full spectrum ones, luckily the led ones were fine. Here's some pictures in chronological order:
+
+First, it's me restarting the wiring because I thought it was too messy and I want this to last 24/7 365 for my plant needs.
+
+![IMG_3276](https://github.com/user-attachments/assets/c4f3fdea-6c5f-4a0f-80ba-40db204c27dc)
+
+After that I did some good rewiring and it was decently clean.
 ![IMG_3277](https://github.com/user-attachments/assets/676155a9-7fc8-43e7-9d7b-43d87eed18d7)
+
+Finally, I finished! I was and still am super excited to grow radishes in my room (i already got some from the seed library)
+
 ![IMG_3289](https://github.com/user-attachments/assets/77bfd6d2-1c0e-4bc4-9796-e6fb7ac2d02e)
 
 
-![IMG_3276](https://github.com/user-attachments/assets/c4f3fdea-6c5f-4a0f-80ba-40db204c27dc)
+
 
 
 Total Time Spent: 7 Hours

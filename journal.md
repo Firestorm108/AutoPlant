@@ -106,10 +106,19 @@ June 22nd-
 
 I 3d printed the control panel area and started the wiring, I got most of the visible stuff done and the outside looks pretty cool!
 
+Time Spent: ~4 Hours
+
 ![IMG_2877](https://github.com/user-attachments/assets/5cfc6247-c2e1-4e8a-b796-4fba81fe7b8a)
 ![IMG_2878](https://github.com/user-attachments/assets/8c6c1414-2485-478c-97e2-13f75dd4cb76)
 
+<h1>August 7th</h1>
 
-Time Spent: ~4 Hours
+I completely finished the project! The watering, lights, all of it. The wiring was quite annoying as there were so many. As well as the AC bulb system, it didn't work and popped my bulbs because the extender wasn't rated for the wattage, I think. I spent a long time in the garage looking for new ones but I did find more full spectrum ones, luckily the led ones were fine. 
+![IMG_3277](https://github.com/user-attachments/assets/676155a9-7fc8-43e7-9d7b-43d87eed18d7)
+![IMG_3289](https://github.com/user-attachments/assets/77bfd6d2-1c0e-4bc4-9796-e6fb7ac2d02e)
 
 
+![IMG_3276](https://github.com/user-attachments/assets/c4f3fdea-6c5f-4a0f-80ba-40db204c27dc)
+
+
+Total Time Spent: 7 Hours

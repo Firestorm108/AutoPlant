@@ -4,6 +4,8 @@ These are my files for my automatic plant growing system. The Plant Growing Syst
 
 I made this because I like growing flowers and vegetables but I can't reliably give the plant the best amounts of water and types of light it needs to grow the best it can. Also, human error can contribute to the downfall of a plant. I'm very excited for this to fully come to life so I can enjoy freshly grown radishes and fennel in my room.
 
+Demo: https://www.youtube.com/shorts/4E3aZrR_M8U
+
 
 ![updatedWiringDiagram](https://github.com/user-attachments/assets/da496693-fd77-44df-82b6-8cd20954bd9d)
 
